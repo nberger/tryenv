@@ -8,6 +8,4 @@
   :plugins [[lein-environ "1.0.0"]]
   :main tryenv.core
 
-  :profiles {:dev {:env {:greet "world"
-                         :db-url "some:db://localhost"}}}
-  )
+  :profiles {:dev {:env {:greet "world"}}})

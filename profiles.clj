@@ -1,1 +1,1 @@
-{:provided {:env {:greet "universe"}}}
+{:provided {:env {:db-url "some:db://localhost"}}}
